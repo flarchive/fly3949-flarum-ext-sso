@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of fly3949/flarum-ext-sso.** Not for installation: use [Packagist](https://packagist.org/packages/fly3949/flarum-ext-sso) or the [upstream repository](https://github.com/fly3949/flarum-ext-sso).
 
-**0** versions archived · Latest: [`0.0.1`](https://github.com/flarchive/fly3949-flarum-ext-sso/tree/archive/v0.0.1) · License: `MIT` · Flarum: `>=0.1.0-beta.12 <0.1.0-beta.14`
+**1** versions archived · Latest: [`0.0.1`](https://github.com/flarchive/fly3949-flarum-ext-sso/tree/archive/v0.0.1) · License: `MIT` · Flarum: `>=0.1.0-beta.12 <0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2020-06-05 | `>=0.1.0-beta.12 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/fly3949-flarum-ext-sso/tree/archive/v0.0.1) |
 
 Catalog entry: [packages/fly3949-flarum-ext-sso.json](https://github.com/flarchive/archive-index/blob/main/packages/fly3949-flarum-ext-sso.json)
 
